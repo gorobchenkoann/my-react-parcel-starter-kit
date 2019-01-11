@@ -14,3 +14,4 @@ Starter kit to build React apps with Parcel bundler
 
 6. edit *title* in src/index.html
 
+7. ```npm i && npm start```
